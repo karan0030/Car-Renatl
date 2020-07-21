@@ -6,7 +6,7 @@
 - This is a java application which can be used to rent car.
 - This application is build using
  **Java**
-, ** Java swing** , **java awt**
+, **Java swing** , **java awt**
 , **RMI**
 , **Mysql** .
 - xampp is required for database connection
@@ -16,7 +16,7 @@
 ### Prerequisite
 
 - xampp
-- java environment **jdk 8 **
+- java environment **jdk 8**
 - **jre**
 - eclipse any version
 
