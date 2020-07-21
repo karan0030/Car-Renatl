@@ -5,11 +5,10 @@
 
 - This is a java application which can be used to rent car.
 - This application is build using
--- **Java**
--- ** Java swing** 
--- **java awt**
--- **RMI**
--- **Mysql** .
+ **Java**
+, ** Java swing** , **java awt**
+, **RMI**
+, **Mysql** .
 - xampp is required for database connection
 
 ## How to run
