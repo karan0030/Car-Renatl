@@ -14,7 +14,7 @@
 
 ## How to run
 
-### should have followwing
+### Prerequisite
 
 - xampp
 - java environment **jdk 8 **
